@@ -1,4 +1,3 @@
 Bundle-Version: 1.0.0
 -sub: *.bnd
 -buildpath: org.osgi.service.component.annotations
-Service-Component: test.impl.Noop
